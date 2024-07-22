@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720822447 source:c:\users\daniel\documents\tutorial giraffe academy\madlibsgame\main.c
+	<stdio.h>
+	<stdlib.h>
+
