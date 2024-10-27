@@ -18,16 +18,34 @@ int main()
            scanf("%d",&user);
            
            switch (user){
-            case 1: printf("Enter Dar account \n"); break;
-            case 2: printf("Enter BANK account \n"); break;
-            case 3: printf("1. binance\n 2.Mpesa\n 3.Emola\n 4. Mkesh\n"); break;
-        
-           }
-    case 2: printf("1. ATM  \n 2.AGENT"); break; 
-    
+            case 1: printf("Successfully sent to  Dar account \n"); break;
+            case 2: printf("sucessfully sent to the BANK account \n"); break;
+            case 3: printf(" The following networks are unavailable : \n 1. binance\n 2.Mpesa\n 3.Emola\n 4. Mkesh\n"); break;
+           } break; 
+    case 2: printf("1. ATM  \n 2.AGENT \n");
+            scanf("%d",&user);
+           switch(user){
+               case 1: printf(" Withdrawal on ATM successfully done  "); break; 
+               case 2: printf("Withdrawal with Agent successfully done "); break;
+               } break;
+               
+    case 3: printf("enter the amount for the airtime \n"); 
+            scanf("%d",&user);
+            printf("Successfully recharged airtime amount of %d",user);
+             break;
  
     
+    case 4 : printf ("Please present your bank statement to the nearest DARTECH shop for a possible Loan or Savings plan"); break;
+    case 5: printf("Access your Financial service on DarFIN/User10293.com"); break;
+    case 6: printf("enter the amount for the Credelec \n"); 
+            scanf("%d",&user);
+            printf("Successfully recharged credelec amount of %d",user);
+             break;
+    case 7: printf("User account Unavailable"); break; 
     
+    
+    default: 
+        printf("option Invalid , Goodbye");
     }
 
     

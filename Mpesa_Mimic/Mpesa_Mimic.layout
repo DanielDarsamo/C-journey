@@ -4,8 +4,8 @@
 	<ActiveTarget name="Debug" />
 	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1136" topLine="16" />
+			<Cursor1 position="1081" topLine="15" />
 		</Cursor>
 	</File>
-	<EditorTabsLayout layout="084fd220671d3bf800005ec900000002=*0;Mpesa_Mimic:main.c@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=855;besth=403;minw=855;minh=403;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=084fd220671d3bf800005ec900000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=300;besth=300;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=302|" />
+	<EditorTabsLayout layout="0857ecf0671eaf8600050fff00000002=*0;Mpesa_Mimic:main.c@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=855;besth=403;minw=855;minh=403;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=0857ecf0671eaf8600050fff00000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=300;besth=300;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=302|" />
 </CodeBlocks_layout_file>
