@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731716224 source:c:\users\daniel\documents\repos\c-journey\matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+
